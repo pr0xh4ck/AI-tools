@@ -26,7 +26,8 @@
 
 
 #### Graphic-Design
-- [Uizard]((https://uizard.io)
+- [Uizard](https://uizard.io)
+- [Dalle](https://openai.com/dall-e-2)
 - [Alpacaml](https://www.alpacaml.com/)
 - [Jasper](https://www.jasper.ai)
 - [Letsenhance](https://letsenhance.io/)
@@ -46,9 +47,6 @@
 
 
 #### Video-Making
-- [google](https://www.google.com/)
-- [bing](https://www.bing.com)
-- [yahoo](https://www.yahoo.com/)
 
 
 
@@ -57,18 +55,15 @@
 
 
 #### Sound-Production
-- [google](https://www.google.com/)
-- [bing](https://www.bing.com)
-- [yahoo](https://www.yahoo.com/)
 
 
 -----------------------------------------------
 
 
 #### Live-Chat
-- [google](https://www.google.com/)
-- [bing](https://www.bing.com)
-- [yahoo](https://www.yahoo.com/)
+- [ChatGPT](https://chat.openai.com/)
+- [Bard](https://bard.google.com/)
+
 
 
 
