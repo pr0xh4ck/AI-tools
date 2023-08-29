@@ -20,18 +20,29 @@
 
 
 
----
+----------------------------------
+----------------------------------
 
 
 
 #### Graphic-Design
-- [google](https://www.google.com/)
-- [bing](https://www.bing.com)
-- [yahoo](https://www.yahoo.com/)
+- [Uizard]((https://uizard.io)
+- [Alpacaml](https://www.alpacaml.com/)
+- [Jasper](https://www.jasper.ai)
+- [Letsenhance](https://letsenhance.io/)
+- [Khroma](https://www.khroma.co/)
+- [Autodraw](https://www.autodraw.com/)
+- [Fronty](https://fronty.com/)
+- [Adobe](https://www.adobe.com/sensei.html)
+- [Designs](https://designs.ai/)
+- [Nvidia](https://www.nvidia.com/en-us/studio/canvas/)
+- [Usegalileo](https://www.usegalileo.ai/)
+- [Flair](https://app.flair.ai)
 
 
 
 
+---------------------------------------
 
 
 #### Video-Making
@@ -42,7 +53,7 @@
 
 
 
-
+----------------------------------------------
 
 
 #### Sound-Production
@@ -51,7 +62,7 @@
 - [yahoo](https://www.yahoo.com/)
 
 
-
+-----------------------------------------------
 
 
 #### Live-Chat
